@@ -1,4 +1,4 @@
-module amelecore
+module github.com/buraktt/amele-core-go
 
 go 1.25.0
 
