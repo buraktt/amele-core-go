@@ -1,4 +1,4 @@
-module amale-core
+module amalecore
 
 go 1.25.0
 
